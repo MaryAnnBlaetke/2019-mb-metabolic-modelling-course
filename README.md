@@ -13,7 +13,7 @@ In this course, we use the [python](https://www.python.org) as programming langu
 For live coding we will use the [Jupyter Notebook](https://jupyter.org) implementation at [Google Colabratory](). 
 Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. If you prefer to run your own Jupyter Notebook instance, we recommand installing it via [Anaconda](https://anaconda.org).
 
-## Requirements
+### Requirements
 Some experience in coding, preferably using python. 
 Resources for learning python can be found at:
 * [Codecademy](https://www.codecademy.com/catalog/language/python)
