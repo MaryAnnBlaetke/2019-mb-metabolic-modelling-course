@@ -5,6 +5,9 @@
 In the first part of this course, we will discuss the importance of mathematical modelling to enhance the understanding about real-world systems and to make prediction about the systems behaviour. 
 Next, we will focus on metabolic networks, their construction and purpose and the application of flux balance analysis to investigate the flux distribution optimised for a specific criteria subjected to a set of constraints.
 
+### References
+...
+
 ## Part 2 - Excerise
 In the second part of this course, we will go through the [cobrapy](https://opencobra.github.io/cobrapy/) Tutorial provided at [ReadTheDocs](https://cobrapy.readthedocs.io/en/latest/index.html) to learn baout the very basics, from loading to manipulatin/building models to perfrom a simple FBA and beyond.
 
