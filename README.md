@@ -9,8 +9,8 @@ Next, we will focus on metabolic networks, their construction and purpose and th
 In the second part of this course, we will go through the [cobrapy](https://opencobra.github.io/cobrapy/) Tutorial provided at [ReadTheDocs](https://cobrapy.readthedocs.io/en/latest/index.html) to learn baout the very basics, from loading to manipulatin/building models to perfrom a simple FBA and beyond.
 
 ### Working Environment
-In this course, we use the [python](https://www.python.org) as programming languages and the [cobrapy](https://opencobra.github.io/cobrapy/) package for constraint-based modelling of biological networks, which is part of the [openCobra](http://opencobra.github.io) project. 
-For live coding we will use the [Jupyter Notebook](https://jupyter.org) implementation at [Google Colabratory](). 
+We use the [python](https://www.python.org) as programming language and the [cobrapy](https://opencobra.github.io/cobrapy/) package for constraint-based modelling of biological networks, which is part of the [openCobra](http://opencobra.github.io) project. 
+For live coding we will use the [Jupyter Notebook](https://jupyter.org) implementation at [Google Colabratory](https://colab.research.google.com/). 
 Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. If you prefer to run your own Jupyter Notebook instance, we recommand installing it via [Anaconda](https://anaconda.org).
 
 ### Requirements
