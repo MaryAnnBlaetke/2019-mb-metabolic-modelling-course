@@ -11,7 +11,7 @@ Next, we will focus on metabolic networks, their construction and purpose and th
 * Feist, A. M., & Palsson, B. Ø. (2008). The growing scope of applications of genome-scale metabolic reconstructions using Escherichia coli. Nature biotechnology, 26(6), 659. [DOI](https://doi.org/10.1038/nbt1401)
 * Terzer, M., Maynard, N. D., Covert, M. W., & Stelling, J. (2009). Genome‐scale metabolic networks. Wiley Interdisciplinary Reviews: Systems Biology and Medicine, 1(3), 285-297. [DOI](https://doi.org/10.1002/wsbm.37)
 
-## Other Resources
+### Other Resources
 * [USU course on "Systems Biology: Constraint-based Metabolic Reconstructions and Analysis"](https://systemsbiology.usu.edu/introduction.php)
 
 ## Part 2 - Exercise
