@@ -1,5 +1,11 @@
 # Metabolic Modelling Course @ CompBioStarter2019
 
+## Trainers
+Mary-Ann Blätke (<blaetke@ipk-gatersleben.de>)
+
+Jedrzej Jakub Szymanski (<szymanski@ipk-gatersleben.de>)
+
+[HP](https://www.ipk-gatersleben.de/molekulare-genetik/netzwerkanalyse-und-modellierung/)
 
 ## Part 1 - Introduction
 In the first part of this course, we will discuss the importance of mathematical modelling to enhance the understanding of real-world systems and to make predictions about the system's behaviour. 
