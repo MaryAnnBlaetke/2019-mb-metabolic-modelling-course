@@ -1,4 +1,4 @@
-# Metabolic Modelling Course @ CompBioStarter2019
+# Metabolic Modelling Course
 
 ## Trainers
 Mary-Ann Blätke (<blaetke@ipk-gatersleben.de>)
